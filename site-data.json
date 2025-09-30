@@ -1,133 +1,125 @@
 {
   "personal": {
     "name": "Varshini Loganathan",
-    "tagline": "💻 Prev SWE @ Salesforce | SWE Fellow @ Uber | CS + AI + OR @ Rice | Coach @ MLH | AMP @ Jane Street",
+    "tagline": "Prev SWE @ Salesforce | SWE Fellow @ Uber | CS + AI + OR @ Rice | Coach @ MLH | AMP @ Jane Street",
     "picture": "profile.jpeg",
     "website": "https://varshinilogan.github.io/varshini-portfolio/",
     "linkedin": "https://www.linkedin.com/in/varshini-loganathan",
     "email": "vl37@rice.edu",
     "github": "https://github.com/varshinilogan",
-    "about": "🎓 Triple-majoring in Computer Science, Artificial Intelligence, and Operations Research at Rice University. 🤖 Passionate about robotics, ML, and expanding access to tech education. Experienced in software engineering, hackathon leadership, and community mentorship."
+    "about": "Triple-majoring in Computer Science, Artificial Intelligence, and Operations Research at Rice University. Focused on robotics and machine learning, with a passion for expanding access to technical education. Experienced in software engineering, hackathon leadership, and technical community mentorship."
   },
   "experience": [
     {
       "date": "May 2025 - Present",
-      "role": "🖥 IT Worker",
+      "role": "IT Worker",
       "company": "Rice University",
-      "color": "#FF6F61",
       "description": [
-        "✅ Provide Level 1 technical support for 10,000+ Canvas LMS users, resolving 50+ issues weekly.",
-        "🔧 Test and debug software features to improve platform reliability.",
-        "📚 Author and maintain 10+ technical guides, reducing support tickets by 25%."
+        "Provide Level 1 technical support for 10,000+ Canvas LMS users, resolving 50+ issues weekly.",
+        "Thoroughly test and debug software features and integrations to improve platform reliability.",
+        "Author and maintain 10+ technical guides and training modules, reducing support tickets by 25%."
       ]
     },
     {
       "date": "March 2025 - Present",
-      "role": "🎓 Coach",
+      "role": "Coach",
       "company": "Major League Hacking",
-      "color": "#6B5B95",
       "description": [
-        "👩‍💻 Mentor 2,000+ student developers monthly at international hackathons.",
-        "🔌 Maintain technical infrastructure and resolve blockers during events.",
-        "🚀 Create sponsor demos (GitHub Copilot, Google Gemini, Roo Code) to drive adoption.",
-        "📊 Host monthly workshops on data structures & ML, reaching 5,000+ developers."
+        "Mentor 2,000+ student developers monthly at international hackathons, guiding full-stack, AI/ML, and cloud projects.",
+        "Collaborate with organizers to maintain technical infrastructure, resolve blockers, and support event logistics.",
+        "Create sponsor demos (GitHub Copilot, Google Gemini, Roo Code) to drive adoption and evaluate advanced usage.",
+        "Design and host monthly workshops (6+ hours) on data structures and ML, reaching 5,000+ developers."
       ]
     },
     {
       "date": "Nov 2024 - Present",
-      "role": "🎯 Director",
+      "role": "Director",
       "company": "HackRice",
-      "color": "#88B04B",
       "description": [
-        "📅 Lead 36-hour hackathon with 500+ participants and 20+ sponsors.",
-        "🤝 Mentor 10+ organizers across multiple domains.",
-        "💼 Secure and manage sponsorships with top companies (Chevron, Capital One, Intel).",
-        "🛠 Develop programming with workshops, 6 competition tracks, and coding templates.",
-        "💰 Oversee budget, contracts, and resources for maximum impact."
+        "Lead planning and execution of a 36-hour hackathon with 500+ participants and 20+ sponsors annually.",
+        "Mentor a team of 10+ organizers across marketing, logistics, and sponsorships.",
+        "Secure and manage sponsorships with top companies including Chevron, Capital One, and Intel.",
+        "Develop programming with workshops, six competition tracks, and beginner coding templates.",
+        "Oversee budget, negotiate contracts, and manage resources for maximum event impact."
       ]
     },
     {
       "date": "May 2025 - Aug 2025",
-      "role": "⚡ Software Engineer Intern",
+      "role": "Software Engineer Intern",
       "company": "Salesforce",
-      "color": "#F7CAC9",
       "description": [
-        "🤖 Built full-stack intelligent sales agent, reducing manual reporting time by 80%.",
-        "🔍 Redesigned legacy search into LLM-powered interface, improving efficiency by 99%.",
-        "📈 Engineered scalable natural language query interface for CRM datasets."
+        "Built a full-stack intelligent sales agent, reducing manual reporting time by 80% for enterprise users.",
+        "Redesigned legacy search into an LLM-powered interface, improving query efficiency by 99%.",
+        "Engineered scalable natural language query interface using Apex and LLM parsing for CRM datasets."
       ]
     },
     {
       "date": "Dec 2024 - Aug 2025",
-      "role": "🚀 Software Engineering Fellow",
+      "role": "Software Engineering Fellow",
       "company": "Uber",
-      "color": "#92A8D1",
       "description": [
-        "🏆 Selected in top 3% for Uber Career Prep Program.",
-        "💡 Completed 40+ hours of technical training including mock interviews.",
-        "👩‍🏫 Received 1-on-1 mentorship to strengthen coding and interview skills."
+        "Selected in top 3% for Uber Career Prep Program.",
+        "Completed 40+ hours of technical training including mock interviews and workshops.",
+        "Received 1-on-1 mentorship from Uber engineers to strengthen interview and coding performance."
       ]
     },
     {
       "date": "Jun 2024 - Aug 2024",
-      "role": "📐 AMP Scholar",
+      "role": "Academy of Math and Programming Scholar",
       "company": "Jane Street",
-      "color": "#955251",
       "description": [
-        "✨ 1 of 78 selected from 5,000+ applicants to study CS, combinatorics, and number theory.",
-        "🤖 Built AI agents for mathematical games emphasizing OOP and problem-solving.",
-        "🥈 Placed 4th in internal trading competition out of 78 scholars."
+        "1 of 78 selected from 5,000+ applicants to study CS, combinatorics, and number theory with IMO coaches.",
+        "Built AI agents for mathematically-focused games emphasizing OOP, testing, and creative problem-solving.",
+        "Placed 4th in internal trading competition out of 78 scholars."
       ]
     },
     {
       "date": "Jun 2022 - Aug 2024",
-      "role": "👨‍🏫 Lead Instructor",
+      "role": "Lead Instructor",
       "company": "Code Ninjas",
-      "color": "#B565A7",
       "description": [
-        "🧑‍💻 Taught 130+ students coding in JavaScript, LUA, Python, and C#.",
-        "📘 Overhauled curriculum for better comprehension.",
-        "🤝 Trained and mentored new instructors.",
-        "🔌 Taught 50+ students engineering, coding, and circuits at camps."
+        "Taught 130+ students aged 4–15 coding in JavaScript, LUA, Python, and C#.",
+        "Overhauled coding curriculum for better student comprehension.",
+        "Trained and mentored new instructors through onboarding.",
+        "Taught 50+ students engineering, coding, and circuits at summer camps."
       ]
     }
   ],
-"education": [
-  {
-    "date": "Aug 2024 - May 2028",
-    "institution": "Rice University",
-    "degree": "B.S. Computer Science, AI, and Operations Research",
-    "icon": "🎓",
-    "description": [
-      "Triple-majoring in CS, Artificial Intelligence, and Operations Research.",
-      "Focus on robotics, machine learning, and optimization.",
-      "Active in technical leadership, hackathons, and mentorship roles."
-    ]
-  },
-  {
-    "date": "Aug 2020 - May 2024",
-    "institution": "Westwood High School",
-    "degree": "High School Diploma",
-    "icon": "🏫",
-    "description": [
-      "Graduated with strong academics and extracurricular achievements.",
-      "Participated in coding clubs, math competitions, and science fairs."
-    ]
-  }
-],
-
+  "education": [
+    {
+      "date": "Aug 2024 - May 2028",
+      "institution": "Rice University",
+      "degree": "B.S. Computer Science, AI, and Operations Research",
+      "icon": "🎓",
+      "description": [
+        "Triple-majoring in CS, Artificial Intelligence, and Operations Research.",
+        "Focus on robotics, machine learning, and optimization.",
+        "Active in technical leadership, hackathons, and mentorship roles."
+      ]
+    },
+    {
+      "date": "Aug 2020 - May 2024",
+      "institution": "Westwood High School",
+      "degree": "High School Diploma",
+      "icon": "🏫",
+      "description": [
+        "Graduated with strong academics and extracurricular achievements.",
+        "Participated in coding clubs, math competitions, and science fairs."
+      ]
+    }
+  ],
   "certifications": [],
   "achievements": [],
   "skills": [
-    { "name": "💻 Software Engineering", "color": "#FF6F61" },
-    { "name": "🤖 Machine Learning", "color": "#6B5B95" },
-    { "name": "🧠 Artificial Intelligence", "color": "#88B04B" },
-    { "name": "🤖 Robotics", "color": "#F7CAC9" },
-    { "name": "🏆 Hackathon Leadership", "color": "#92A8D1" },
-    { "name": "🌐 Full-Stack Development", "color": "#955251" },
-    { "name": "👩‍🏫 Technical Mentorship", "color": "#B565A7" },
-    { "name": "📊 Data Structures & Algorithms", "color": "#009B77" },
-    { "name": "🎤 Public Speaking", "color": "#DD4124" },
-    { "name": "🧩 Problem Solving", "color": "#45B8AC" }
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Robotics" },
+    { "name": "Hackathon Leadership" },
+    { "name": "Full-Stack Development" },
+    { "name": "Technical Mentorship" },
+    { "name": "Data Structures & Algorithms" },
+    { "name": "Public Speaking" },
+    { "name": "Problem Solving" }
   ]
 }
