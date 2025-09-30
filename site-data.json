@@ -92,20 +92,29 @@
       ]
     }
   ],
-  "education": [
-    {
-      "date": "Aug 2024 - May 2028",
-      "institution": "Rice University",
-      "degree": "B.S. Computer Science, AI, and Operations Research",
-      "icon": "🎓"
-    },
-    {
-      "date": "Aug 2020 - May 2024",
-      "institution": "Westwood High School",
-      "degree": "High School Diploma",
-      "icon": "🏫"
-    }
-  ],
+"education": [
+  {
+    "date": "Aug 2024 - May 2028",
+    "institution": "Rice University",
+    "degree": "B.S. Computer Science, AI, and Operations Research",
+    "icon": "🎓",
+    "description": [
+      "Triple-majoring in CS, Artificial Intelligence, and Operations Research.",
+      "Focus on robotics, machine learning, and optimization.",
+      "Active in technical leadership and mentorship roles."
+    ]
+  },
+  {
+    "date": "Aug 2020 - May 2024",
+    "institution": "Westwood High School",
+    "degree": "High School Diploma",
+    "icon": "🏫",
+    "description": [
+      "Graduated with strong academics and extracurricular achievements.",
+      "Participated in coding clubs, math competitions, and science fairs."
+    ]
+  }
+],
   "certifications": [],
   "achievements": [],
   "skills": [
